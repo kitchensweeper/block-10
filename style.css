@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Desktop: 1680 x 1050
+iPad: 1024 x 768
+Mobile: 480 x 320 */
+
+/*Mobile*/
+@media only screen and (max-width: 480px) {
+    body {
+      
+    }
+  }
+  
+  /*Tablet*/
+  @media only screen and (min-width: 481px) and (max-width: 800px) {
+    body {
+ 
+    }
+  }
+  
+  /*Desktop*/
+  @media only screen and (min-width: 801px) {
+    body {
+  
+    }
+  }
+  
